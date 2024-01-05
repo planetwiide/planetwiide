@@ -1,0 +1,4 @@
+- 👋 nairu
+- 🌱 i'm currently learning java & skript
+- 💞️ i'm looking to collaborate on uhc plugins (api or gamemodes)
+- 📫 reach me via discord : znairu
