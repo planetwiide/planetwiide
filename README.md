@@ -20,9 +20,8 @@
 
 ## ⚙️ Skills :
 
-![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Skript Logo](https://img.shields.io/badge/Skript-4EAA25?style=for-the-badge&logo=skript&logoColor=white)
-![GitBook Logo](https://img.shields.io/badge/GitBook-7B36AE?style=for-the-badge&logo=gitbook&logoColor=white)
-![Notion Logo](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![FL Studio Logo](https://img.shields.io/badge/FL_Studio-FF6600?style=for-the-badge&logo=fl-studio&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Skript](https://img.shields.io/badge/Skript-4EAA25?style=for-the-badge)
+![GitBook](https://img.shields.io/badge/GitBook-7B36AE?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF6600?style=for-the-badge)
