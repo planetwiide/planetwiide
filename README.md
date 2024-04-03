@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-- My name is Nil (he/him). Welcome to my GitHub profile!
-I love Music, Gaming and Developpement and I live in France.
+- My name is Nil (he/him). Welcome to my GitHub profile ! I love Music, Gaming and Developpement and I live in France.
 
 - 🌱 I'm currently learning Java and Skript.
 - 💞️ I'm looking to collaborate on UHC plugins (API or gamemodes).
