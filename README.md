@@ -1,23 +1,30 @@
+Voici une version améliorée de ton profil GitHub :
+
+---
+
 # 👋 Hi there !
 
-
-- 🌱 My name is Nil (he/him). Welcome to my GitHub profile ! I love Music, Gaming and Developpement and I live in France.
-
+- 🌱 My name is Nil (he/him). Welcome to my GitHub profile! I love Music, Gaming, and Development. I live in France.
 
 ## 👜 Projects
 
 ### 💻 ZLL-Dev
 
-- ZLL-Dev is a development platform where I work on various projects and experiments. It's a space where I explore different technologies and improve my coding skills. You can check my works [here](https://zll-dev.gitbook.io/docs) (in french).
+- **ZLL-Dev** is a development platform where I work on various projects and experiments. It's a space where I explore different technologies and improve my coding skills. You can check my works [here](https://zll-dev.gitbook.io/docs) (in French).
 
-### ☁️ YUME :
+### ☁️ YUME
 
-- YUME is my French Minecraft UHC server where players can immerse themselves in unique gameplay experiences. From custom gamemodes to exciting events, YUME offers a nice community for Minecraft enthusiasts. [Join Us](https://dsc.gg/yumeuhc) !
+- **YUME** is my French Minecraft UHC server where players can immerse themselves in unique gameplay experiences. From custom game modes to exciting events, YUME offers a vibrant community for Minecraft enthusiasts. [Join Us](https://dsc.gg/yumeuhc)!
 
-## ⚙️ Skills :
+## ⚙️ Skills
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
-![Skript](https://img.shields.io/badge/Skript-4EAA25?style=for-the-badge)
-![GitBook](https://img.shields.io/badge/GitBook-7B36AE?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
-![FL Studio](https://img.shields.io/badge/FL_Studio-FF6600?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-4EAA25?style=for-the-badge&logo=skript&logoColor=white)
+![GitBook](https://img.shields.io/badge/GitBook-7B36AE?style=for-the-badge&logo=gitbook&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF6600?style=for-the-badge&logo=flstudio&logoColor=white)
+
+## 📫 Contact Me
+
+- **X:** [@znairuwu]([https://twitter.com/votre-twitter](https://x.com/znairuwu))
+- **Discord:** [@znairu](discord://-/channels/@me/)
