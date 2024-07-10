@@ -22,5 +22,6 @@
 
 ## 📫 Contact Me
 
-- **X:** [@znairuwu]([https://twitter.com/votre-twitter](https://x.com/znairuwu))
+- **Portal Website**: [github pages](https://znairu.github.io)
+- **X:** [@znairuwu](https://x.com/znairuwu)
 - **Discord:** [@znairu](discord://-/channels/@me/)
