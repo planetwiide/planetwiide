@@ -1,7 +1,3 @@
-Voici une version améliorée de ton profil GitHub :
-
----
-
 # 👋 Hi there !
 
 - 🌱 My name is Nil (he/him). Welcome to my GitHub profile! I love Music, Gaming, and Development. I live in France.
