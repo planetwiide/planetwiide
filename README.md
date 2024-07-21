@@ -1,6 +1,6 @@
 # 👋 Hi there !
 
-- 🌱 My name is Nil (he/him). Welcome to my GitHub profile! I love Music, Gaming, and Development. I live in France.
+- 🌱 Welcome to my GitHub profile! My name is planetwide and I love Music, Gaming, and Development.
 
 ## 👜 Projects
 
