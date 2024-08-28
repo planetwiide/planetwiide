@@ -8,9 +8,9 @@
 
 - **ZLL-Dev** is a development platform where I work on various projects and experiments. It's a space where I explore different technologies and improve my coding skills. You can check my works [here](https://zll-dev.gitbook.io/docs) (in French).
 
-### ☁️ YUME
+### 🪐 Not much more
 
-- **YUME** is my French Minecraft UHC server where players can immerse themselves in unique gameplay experiences. From custom game modes to exciting events, YUME offers a vibrant community for Minecraft enthusiasts. [Join Us](https://dsc.gg/yumeuhc)!
+- Probably much lazing atm.
 
 ## ⚙️ Skills
 
