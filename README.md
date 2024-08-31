@@ -4,11 +4,7 @@
 
 ## 👜 Projects
 
-### 💻 ZLL-Dev
-
-- **ZLL-Dev** is a development platform where I work on various projects and experiments. It's a space where I explore different technologies and improve my coding skills. You can check my works [here](https://zll-dev.gitbook.io/docs) (in French).
-
-### 🪐 Not much more
+### 🪐 Not much
 
 - Probably much lazing atm.
 
