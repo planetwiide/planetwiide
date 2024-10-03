@@ -37,27 +37,29 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> ⚡ ꒰ Connect With Me ꒱ ⚡ </h1>
 
-<div align="center">
-  <a href="https://twitter.com/planetwiide" target="_blank">
-    <img alt="X" src="https://img.shields.io/twitter/follow/planetwiide">
-  </a>
-  <a href="https://discord.com/users/1082384214609100801" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
+
+
+
+<p align="center">
+  <a href="https://twitter.com/planetwiide"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/Nfs8M346Cb" alt="Join my community"><img width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/213px-Discord_Logo_sans_texte.svg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+
+
 
 
 ---
 
 <h1 align="center"> 📊 ꒰ Stats ꒱ 📊 </h1>
 
-<a href="https://github.com/planetwiide" target="_blank" style="text-decoration: none;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
-</a>
-<a href="https://discord.com/users/1082384214609100801" target="_blank" style="text-decoration: none;">
-  <img alt="Discord" src="https://img.shields.io/discord/1291491386092425360">
-</a>
-
+  <<img alt="Discord" src="https://img.shields.io/discord/1291491386092425360">
+</div>
 
 ---
 
