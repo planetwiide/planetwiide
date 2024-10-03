@@ -30,8 +30,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> 🏯 ꒰ Current Projects ꒱ 🏯 </h1>
 
-- 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
-- ☁️ [**Miam-cloud**]([#](https://github.com/planetwiide/miam-cloud)): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
+- 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
+- ☁️ [**Miam-cloud**](https://github.com/planetwiide/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
 
 ---
 
