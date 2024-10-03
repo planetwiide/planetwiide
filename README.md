@@ -65,10 +65,9 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> 🏆 ꒰ Achievements ꒱ 🏆 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
-  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=planetwiide&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=planetwiide&theme=radical&title_color=00aaff" alt="trophies" />
+</p>
 
 ---
 
