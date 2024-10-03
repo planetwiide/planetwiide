@@ -13,6 +13,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
+<h1 align="center">test</h1>
+
 ## Tech Stack
 
 <div align="center">
@@ -23,7 +25,6 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
@@ -31,8 +32,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ## Current Projects
 
-- 🎥 [**Kinoflix**](#): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
-- ☁️ [**Miam-cloud**](#): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
+- 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
+- ☁️ [**Miam-cloud**]([#](https://github.com/planetwiide/miam-cloud)): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
 
 ---
 
@@ -42,7 +43,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
   <a href="https://twitter.com/planetwiide">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-discord-id">
+  <a href="https://discord.com/users/1082384214609100801">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
