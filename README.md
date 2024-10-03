@@ -37,9 +37,15 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> ⚡ ꒰ Connect With Me ꒱ ⚡ </h1>
 
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fplanetwiide&style=flat&color=0077cc" align="center" />
+<div align="center">
+  <a href="https://twitter.com/planetwiide" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1082384214609100801" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
-<img src="https://img.shields.io/badge/Twitter-0077cc?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
 
