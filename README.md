@@ -40,12 +40,10 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 
 
-<p align="center">
-  <a href="https://twitter.com/planetwiide"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Nfs8M346Cb" alt="Join my community"><img width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/213px-Discord_Logo_sans_texte.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
+  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=planetwiide&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
+</div>
 
 
 
