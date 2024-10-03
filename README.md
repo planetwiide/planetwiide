@@ -53,7 +53,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
-  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=planetwiide&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
+  <<img alt="Discord" src="https://img.shields.io/discord/1291491386092425360">
 </div>
 
 ---
