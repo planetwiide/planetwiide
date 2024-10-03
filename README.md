@@ -4,7 +4,7 @@
 
 ---
 
-## About Me
+<h1 align="center">꒰ 👤 About Me 👤 ꒱</h1>
 
 Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking. I love working on projects in Python, C++, and web development. When I'm not coding, you can find me jamming on my guitar 🎸 or producing beats.
 
@@ -13,9 +13,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
-<h1 align="center">test</h1>
-
-## Tech Stack
+<h1 align="center">꒰ 💻 Tech Stack 💻 ꒱</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,14 +28,14 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
-## Current Projects
+<h1 align="center">꒰ 🏯 Current Projects 🏯 ꒱</h1>
 
 - 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
 - ☁️ [**Miam-cloud**]([#](https://github.com/planetwiide/miam-cloud)): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
 
 ---
 
-## Connect with Me
+<h1 align="center">꒰ ⚡ Connect With Me ⚡ ꒱</h1>
 
 <p align="center">
   <a href="https://twitter.com/planetwiide">
@@ -50,7 +48,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
-## GitHub Stats
+<h1 align="center">꒰ 📊 Stats 📊 ꒱</h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
@@ -59,7 +57,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
-## GitHub Achievements
+<h1 align="center">꒰ 🏆 Achievements 🏆 ꒱</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=planetwiide&theme=radical&title_color=00aaff" alt="trophies" />
@@ -67,7 +65,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 ---
 
-## Contribution Graph
+<h1 align="center">꒰ 🫱🏻‍🫲🏻 Contributions 🫱🏻‍🫲🏻 ꒱</h1>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=planetwiide&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true" />
