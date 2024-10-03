@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+planetwiide's+github;enjoy+exploring+my+repositories!)](https://git.io/typing-svg) 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+planetwiide's+github;enjoy+exploring+my+repositories!="Image description" />
+</p>
+
 ## 👋 sup!
 
 - 🌱 welcome to my github profile! my name is planetwide and i love music, gaming, and development.
