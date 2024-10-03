@@ -68,5 +68,5 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 <h1 align="center"> 🫱🏻‍🫲🏻 ꒰ Contributions ꒱ 🫱🏻‍🫲🏻 </h1>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=planetwiide&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=planetwiide&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true" alt="Activity Graph" style="max-width: 100%; height: auto;" />
 </p>
