@@ -37,7 +37,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> ⚡ ꒰ Connect With Me ꒱ ⚡ </h1>
 
-<img src"https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fplanetwiide&style=flat&color=0077cc" align="center" />
+<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fplanetwiide&style=flat&color=0077cc" align="center" />
 
 ---
 
