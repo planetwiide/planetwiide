@@ -39,6 +39,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fplanetwiide&style=flat&color=0077cc" align="center" />
 
+<img src="https://img.shields.io/badge/Twitter-0077cc?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 ---
 
 <h1 align="center"> 📊 ꒰ Stats ꒱ 📊 </h1>
