@@ -6,7 +6,7 @@
 
 <h1 align="center"> 👤 ꒰ About Me ꒱ 👤 </h1>
 
-Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking. I love working on projects in Python, C++, and web development. When I'm not coding, you can find me jamming on my guitar 🎸 or producing beats.
+Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking. I love working on projects in Python, C++, and web development.
 
 - 🔭 I’m currently working on: `Kinoflix` and `Miam-cloud`
 - 🌱 I’m learning: Advanced Python, Flask, and full-stack development as well as networking and basic CS/Electronics
