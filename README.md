@@ -1,3 +1,4 @@
+![svg](readme-typing-svg.demolab.com/?lines=planetwiide;enjoy+exploring+my+repositories)
 ## 👋 sup!
 
 - 🌱 welcome to my github profile! my name is planetwide and i love music, gaming, and development.
