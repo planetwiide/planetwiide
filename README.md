@@ -51,11 +51,13 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <h1 align="center"> 📊 ꒰ Stats ꒱ 📊 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<a href="https://github.com/planetwiide" target="_blank" style="text-decoration: none;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
+</a>
+<a href="https://discord.com/users/1082384214609100801" target="_blank" style="text-decoration: none;">
   <img alt="Discord" src="https://img.shields.io/discord/1291491386092425360">
-  <img alt="Twitter" src="https://img.shields.io/twitter/1291491386092425360">
-</div>
+</a>
+
 
 ---
 
