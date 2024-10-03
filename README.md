@@ -39,7 +39,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 <div align="center">
   <a href="https://twitter.com/planetwiide" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/planetwiide">
   </a>
   <a href="https://discord.com/users/1082384214609100801" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
