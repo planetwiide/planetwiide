@@ -1,29 +1,71 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+planetwiide's+github;enjoy+exploring+my+repositories!"Image description" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+planetwiide's+github;enjoy+exploring+my+repositories!" />
 </p>
 
 ---
+
+## About Me
+
+Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking. I love working on projects in Python, C++, and web development. When I'm not coding, you can find me jamming on my guitar 🎸 or producing beats.
+
+- 🔭 I’m currently working on: `Kinoflix` and `Miam-cloud`
+- 🌱 I’m learning: Advanced Python, Flask, and full-stack development
+- ⚡ Fun fact: I enjoy making beats in my free time and exploring new tech stacks!
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+## Current Projects
+
+- 🎥 [**Kinoflix**](#): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
+- ☁️ [**Miam-cloud**](#): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/planetwiide">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=radical&title_color=00aaff">
   <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=planetwiide&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
 </div>
 
+---
 
+## GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=planetwiide&theme=radical&title_color=00aaff" alt="trophies" />
+</p>
 
+---
 
-## 👋 sup!
+## Contribution Graph
 
-- 🌱 welcome to my github profile! my name is planetwide and i love music, gaming, and development.
-
-## 👜 projects
-
-### 🪐 not much
-
-- prob lazing atm.
-
-## ⚙️ skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=planetwiide&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true" />
+</p>
