@@ -42,6 +42,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Nfs8M346Cb" alt="Join my community"><img width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/213px-Discord_Logo_sans_texte.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/planetwiide" alt="Follow me on insta"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
