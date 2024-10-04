@@ -9,7 +9,7 @@
 Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking.
 
 - 🔭 I’m currently working on: `Kinoflix` and `miam-cloud`
-- 🌱 I’m learning: Advanced `Python`, `Flask`, and ˋfull-stack` development as well as ˋJavaˋ or ˋC++ˋ, networking along with some basic CS.
+- 🌱 I’m learning: Advanced `Python`, `Flask`, and `full-stack` development as well as `Java` or `C++`, networking along with some basic CS.
 
 ---
 
