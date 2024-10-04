@@ -6,10 +6,10 @@
 
 <h1 align="center"> 👤 ꒰ About Me ꒱ 👤 </h1>
 
-Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking. I love working on projects in Python, C++, and web development.
+Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking.
 
-- 🔭 I’m currently working on: `Kinoflix` and `Miam-cloud`
-- 🌱 I’m learning: Advanced Python, Flask, and full-stack development as well as networking and basic CS/Electronics
+- 🔭 I’m currently working on: `Kinoflix` and `miam-cloud`
+- 🌱 I’m learning: Advanced `Python`, `Flask`, and ˋfull-stack` development as well as ˋJavaˋ or ˋC++ˋ, networking along with some basic CS.
 
 ---
 
