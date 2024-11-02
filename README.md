@@ -34,6 +34,10 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 
 - 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
 - ☁️ [**Miam-cloud**](https://github.com/planetwiide/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
+- 📎 [**wht**](https://github.com/planetwiide/wht): a versatile C# application for Discord interractions / stats and server n*king that's worked on rn.
+- 
+
+
 
 ---
 
