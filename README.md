@@ -16,7 +16,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 <h1 align="center"> 💻 ꒰ Tech Stack ꒱ 💻 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planetwiide&layout=compact&langs_count=15&theme=dark" style="display: block; margin: auto;" />
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -25,6 +25,7 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planetwiide&layout=compact&langs_count=15&theme=dark" style="display: block; margin: auto;" />
 </div>
 
 ---
